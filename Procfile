@@ -1,0 +1,1 @@
+web: gunicorn coolcations-sw.wsgi
